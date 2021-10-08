@@ -1,0 +1,7 @@
+.tmp/
+Main
+*~
+out/
+tags
+TAGS
+test_results_info.json
